@@ -30,7 +30,7 @@ Users are able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-with-tailwindcss-ckhV-FElGb)
 - [Live Site](https://fm-nft-preview-card-component-lime.vercel.app/)
 
 ## My process
