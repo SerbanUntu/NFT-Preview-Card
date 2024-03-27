@@ -5,6 +5,7 @@
 :root {
   --soft-blue: hsl(215deg 51% 70% / 100%);
   --cyan: hsl(178deg 100% 50% / 100%);
+  --cyan-50: hsl(178deg 100% 50% / 50%);
   --bg: hsl(217deg 54% 11% / 100%);
   --card: hsl(216deg 50% 16% / 100%);
   --line: hsl(215deg 32% 27% / 100%);

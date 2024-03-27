@@ -10,6 +10,9 @@ export default {
       boxShadow: {
         "card": "0 30px 5px 20px rgb(0, 0, 0, 0.06), 0 30px 5px 50px rgb(0, 0, 0, 0.03)",
       },
+      fontSize: {
+        "add": "16px",
+      }
     },
   },
 };
