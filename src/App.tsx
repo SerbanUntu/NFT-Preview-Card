@@ -24,7 +24,7 @@ function App() {
           </section>
           <figure className="h-px bg-[--line]" />
           <section className="flex flex-row gap-4 items-center mb-2">
-            <img className="w-[32px] h-[32px] rounded-full border-white border-[1px]" src="/src/assets/image-avatar.png" alt="Author avatar" />
+            <img className="w-[32px] h-[32px] rounded-full border-white border-[1px]" src="src/assets/image-avatar.png" alt="Author avatar" />
             <small className="font-[400] text-add">Creation of <span className="text-white hover:text-[--cyan] cursor-pointer transition-all duration-200">Jules Wyvern</span></small>
           </section>
         </article>
